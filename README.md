@@ -139,3 +139,19 @@ Hands-on Linux administration lab involving remote Ubuntu server access, SSH aut
 
 [View AWS EC2 Lab](./aws-ec2-ssh-troubleshooting/README.md)
 
+
+## Featured Hands-On Project
+
+### AWS EC2 Linux Administration & SSH Troubleshooting
+
+Configured and accessed an Ubuntu Linux instance hosted on AWS EC2.
+
+Diagnosed an SSH authentication failure caused by overly permissive private-key file permissions.
+
+Corrected the issue using `chmod 400` and successfully established a secure SSH connection.
+
+**Technologies:** AWS EC2, Ubuntu Linux, SSH, Bash
+
+ [View Project Documentation](./aws-ec2-ssh-troubleshooting/README.md)
+
+

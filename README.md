@@ -127,3 +127,15 @@ All exercises should be performed in an authorized lab environment. Do not uploa
 IT Support | Cybersecurity | Linux Administration
 
 GitHub: https://github.com/AnoinTech
+
+
+## Documented Projects
+
+### AWS EC2 Linux Administration & SSH Troubleshooting
+
+Hands-on Linux administration lab involving remote Ubuntu server access, SSH authentication troubleshooting, and secure private-key file permissions.
+
+**Technologies:** Ubuntu Linux, AWS EC2, OpenSSH, Bash
+
+[View AWS EC2 Lab](./aws-ec2-ssh-troubleshooting/README.md)
+
